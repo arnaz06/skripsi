@@ -1,0 +1,23 @@
+[1] http://admisi.dinus.ac.id/pmbonline/menu/jalurpendaftaran
+[2] https://www.statista.com/statistics/273018/number-of-internet-users-worldwide/
+[3] https://databoks.katadata.co.id/datapublish/2017/05/22/pertumbuhan-pengguna-internet-indonesia-nomor-1-di-dunia
+[4] https://searchengineland.com/report-mobile-search-queries-29-percent-of-total-but-growth-modest-217501
+[5] https://docs.oracle.com/javaee/6/tutorial/doc/gijqy.html
+[6] http://weblog.rubyonrails.org/2007/1/19/rails-1-2-rest-admiration-http-lovefest-and-utf-8-celebrations/
+[7] https://www.w3.org/Protocols/HTTP-NG/http-prob.html
+[8] https://hpbn.co/optimizing-for-mobile-networks/#anticipate-network-latency-overhead
+[9] https://databoks.katadata.co.id/datapublish/2017/03/27/di-asia-pasifik-kecepatan-internet-indonesia-jauh-tertinggal
+[10] paper initial graphQL facebook
+
+
+	
+	
+	
+graphql adalah kerangka kerja konseptual yang baru saja diusulkan dan semakin diadopsi untuk menyediakan
+ tipe baru antarmuka akses data di web. Kerangka ini mencakup bahasa kueri grafik baru yang semantiknya 
+telah ditentukan secara informal saja. Tujuan makalah ini adalah untuk memahami sifat dari bahasa ini. 
+Untuk tujuan ini, pertama kami menyediakan semantik permintaan formal. Setelah itu, kita menganalisis bahasa 
+dan menunjukkan bahwa ia memiliki kompleksitas yang sangat rendah untuk dievaluasi. Secara lebih spesifik, 
+kami menunjukkan bahwa kompleksitas gabungan dari masalah keputusan utama adalah nl (ruang logaritmik nondeterministik) dan, 
+dengan demikian, dapat dipecahkan dalam waktu polinomial dan sangat dapat diparalelkan.
+	

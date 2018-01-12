@@ -1,0 +1,16 @@
+rangkuman bab 2 dari paper
+
+
+	Pada Tesis "“Exjobbreport_01”  —  2016/6/23  —  18:29  —  page  1  —  #1 Efficient data communication between a webclient and a cloud environment",
+menjelaskan perbedaan arsitektur antara REST yang selama ini menjadi standar pembangungan sebuah web API dengan graphql yang baru baru ini muncul,
+tesis ini tidak mebahas mana yang lebih bagus dan mana yang lebih buruk, tetapi pembahasaan lebih ke perbedaan teknik dari keduanya.
+	Kendala yang dimiliki REST ialah, 
+Kendala-kendala yang dimiliki REST ialah
+a. Client-Server : Secara arsitektur REST memisahkan pemrosesan sistem menjadi dua komponen. Server merupakan komponen yang menyediakan layanan dan menanggapi permintaan untuk service tersebut. Client merupakan komponen yang terhubung ke server untuk melakukan permintaan ke server.
+b. Stateless :  Server tidak melihat status sesi dari Client. Setiap Request yang dikirim melalui Client harus berisi seluruh informasi yang dibutuhkan agar server dapat mengerti apa yang harus dikirim ke Client.
+c. Cacheable : Response yang dikirim oleh server harus cacheable. Hal ini bertujuan untuk menghindari request yang tidak diperlukan.
+d. Uniform Interface : Dengan perbedaaan komponen dari sistem REST untuk melakukan komunikasi dari kedua komponen memerlukan standar yang sama(Uniform Interface). Hal ini juga mengurangi efisiensi dalam mengirim informasi, karena informasi yang merupakan bentuk standar sedangkan dari pihak aplikasi client memiliki kebutuhan yang berbeda.
+e. Layered System : Sistem ini berada di layer yang berbeda. Satu layer hanya bisa berinteraksi dengan layer terdekatnya. Tetapi dari komponen komponen sistem tidak perlu mengerti satu sama lain, asalkan keduanya bekerja dengan baik maka komunikasi data juga akan bekerja.
+
+
+	
