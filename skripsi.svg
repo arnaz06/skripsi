@@ -82,9 +82,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15119048"
-     inkscape:cx="2597.9583"
-     inkscape:cy="-1050.9395"
+     inkscape:zoom="0.30238095"
+     inkscape:cx="3690.0042"
+     inkscape:cy="-1682.8401"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7199,7 +7199,7 @@
        d="m -169.1865,398.17066 0,-3.13625 -0.55038,0 0,3.13625 c -0.122,0.0601 -0.22162,0.15874 -0.28312,0.28324 l -3.13425,0 0,0.54926 3.13425,0 c 0.103,0.20662 0.312,0.35262 0.55862,0.35262 0.34713,0 0.62838,-0.28087 0.62838,-0.6285 0,-0.24562 -0.1465,-0.45412 -0.3535,-0.55662" />
     <g
        id="g15495"
-       transform="matrix(7.8629139,0,0,7.8629139,-3483.3567,-832.87933)"
+       transform="matrix(7.8629139,0,0,7.8629139,-4594.5378,-773.35177)"
        inkscape:export-filename="/home/sikun/Desktop/aset skripsi/schemaFixtenan.png"
        inkscape:export-xdpi="25"
        inkscape:export-ydpi="25">
@@ -10158,5 +10158,316 @@ RU5ErkJggg==
          x="756.78827"
          y="487.52829" />
     </g>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-4997.9644"
+       x="1893.7996"
+       height="2409.5984"
+       width="1488.4404"
+       id="rect16079"
+       style="opacity:1;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.97489929px;line-height:125%;font-family:STIXIntegralsD;-inkscape-font-specification:STIXIntegralsD;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.90966606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3305.5608"
+       y="2111.4775"
+       id="text17149"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         sodipodi:role="line"
+         id="tspan17151"
+         x="3305.5608"
+         y="2111.4775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.52437258px">Request</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text17153"
+       y="2111.4775"
+       x="3906.4236"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.97489929px;line-height:125%;font-family:STIXIntegralsD;-inkscape-font-specification:STIXIntegralsD;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.90966606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.52437258px"
+         y="2111.4775"
+         x="3906.4236"
+         id="tspan17155"
+         sodipodi:role="line">Response</tspan></text>
+    <rect
+       y="2235.3792"
+       x="2678.5376"
+       height="876.34534"
+       width="705.41034"
+       id="rect17157"
+       style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:14.48473644;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       transform="matrix(10.25558,0,0,10.25558,-2389.4698,-1499.1839)"
+       id="g17159"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79799998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 532.02724,359.13372 0,-10"
+         id="path17161"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path17163"
+         d="m 531.96631,349.53272 20.88164,0"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79799998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 529.00529,354.92035 3.02074,5.23416 3.02316,-5.23416 -6.0439,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path17165"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-10.25558,0,0,10.25558,10053.438,-1499.1839)"
+       id="g17167"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17169"
+         d="m 532.02724,359.13372 0,-10"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79799998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79799998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 531.96631,349.53272 20.88164,0"
+         id="path17171"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path17173"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 529.00529,354.92035 3.02074,5.23416 3.02316,-5.23416 -6.0439,0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text17175"
+       y="2367.4585"
+       x="2745.5659"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.14619446px;line-height:125%;font-family:STIXIntegralsD;-inkscape-font-specification:STIXIntegralsD;letter-spacing:0px;word-spacing:0px;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:0.36533928px"
+         y="2367.4585"
+         x="2745.5659"
+         id="tspan17177"
+         sodipodi:role="line">GET/graphql</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.5539856px;line-height:125%;font-family:STIXIntegralsD;-inkscape-font-specification:STIXIntegralsD;letter-spacing:0px;word-spacing:0px;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2731.7544"
+       y="2536.3149"
+       id="text17179"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         sodipodi:role="line"
+         id="tspan17181"
+         x="2731.7544"
+         y="2536.3149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:0.36533928px"><tspan
+           id="tspan17183"
+           style="fill:#7075b6;fill-opacity:1;stroke:none">query</tspan><tspan
+           id="tspan17185"
+           style="fill:#000000;stroke:none;stroke-width:0.4677141px"> MyUser{</tspan></tspan><tspan
+         id="tspan17187"
+         sodipodi:role="line"
+         x="2731.7544"
+         y="2548.0081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:0.36533928px"><tspan
+   id="tspan17189"
+   style="fill:#000000;stroke:none;stroke-width:0.4677141px">     user(</tspan>id<tspan
+   id="tspan17191"
+   style="fill:#000000;stroke:none;stroke-width:0.4677141px">:</tspan><tspan
+   id="tspan17193"
+   style="fill:#7075b6;fill-opacity:1;stroke:none">1</tspan><tspan
+   id="tspan17195"
+   style="fill:#000000;stroke:none;stroke-width:0.4677141px">){</tspan></tspan><tspan
+         id="tspan17197"
+         sodipodi:role="line"
+         x="2731.7544"
+         y="2559.7014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:0.36533928px">            name</tspan><tspan
+         id="tspan17199"
+         sodipodi:role="line"
+         x="2731.7544"
+         y="2571.3945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:0.36533928px">            age</tspan><tspan
+         id="tspan17201"
+         sodipodi:role="line"
+         x="2731.7544"
+         y="2583.0876"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4677141px">  }</tspan><tspan
+         id="tspan17203"
+         sodipodi:role="line"
+         x="2731.7544"
+         y="2594.7808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4677141px">}</tspan></text>
+    <g
+       transform="matrix(10.25558,0,0,10.25558,-1957.2704,-1499.1839)"
+       id="g17205"
+       inkscape:export-filename="/home/sikun/Desktop/aset skripsi/queryGraph.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <rect
+         y="364.14941"
+         x="599.88501"
+         height="85.450592"
+         width="68.783073"
+         id="rect17207"
+         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.41237617;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.15888262px;line-height:125%;font-family:STIXIntegralsD;-inkscape-font-specification:STIXIntegralsD;letter-spacing:0px;word-spacing:0px;fill:#f25a5a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="603.21417"
+         y="385.35068"
+         id="text17209"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan17211"
+           x="603.21417"
+           y="385.35068"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4677141px;stroke-opacity:1">{</tspan><tspan
+           sodipodi:role="line"
+           x="603.21417"
+           y="391.79929"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#73c254;fill-opacity:1;stroke:none;stroke-width:0.36533928px"
+           id="tspan17213">  &quot;data&quot;<tspan
+   style="fill:#000000"
+   id="tspan17215">:{</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="603.21417"
+           y="398.24789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#73c254;fill-opacity:1;stroke:none;stroke-width:0.36533928px"
+           id="tspan17217">      &quot;user&quot;<tspan
+   style="fill:#000000"
+   id="tspan17219">:{</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="603.21417"
+           y="404.69647"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#73c254;fill-opacity:1;stroke:none;stroke-width:0.36533928px"
+           id="tspan17221">             &quot;name&quot;<tspan
+   style="fill:#000000"
+   id="tspan17223">:</tspan> &quot;Jhon Doe&quot;<tspan
+   style="fill:#000000"
+   id="tspan17225">,</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="603.21417"
+           y="411.14508"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#73c254;fill-opacity:1;stroke:none;stroke-width:0.36533928px"
+           id="tspan17227">             &quot;age&quot;<tspan
+   style="fill:#000000"
+   id="tspan17229">:</tspan> &quot;21&quot;             </tspan><tspan
+           sodipodi:role="line"
+           x="603.21417"
+           y="417.59369"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36533928px"
+           id="tspan17231">    }</tspan><tspan
+           sodipodi:role="line"
+           x="603.21417"
+           y="424.0423"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36533928px"
+           id="tspan17233">  }</tspan><tspan
+           id="tspan17235"
+           sodipodi:role="line"
+           x="603.21417"
+           y="430.49091"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36533928px">}   </tspan></text>
+    </g>
+    <image
+       width="485.94385"
+       height="447.97946"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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
+RU5ErkJggg==
+"
+       id="image17237"
+       x="4418.3853"
+       y="3060.0413" />
   </g>
 </svg>
